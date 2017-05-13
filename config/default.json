@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "79c85ae48d6e231ea56f0850b2a7f6d8",
+    "pageAccessToken": "EAACZBuVa0PcoBAIFN9HqlMvk3zSox1DRFL8BAu5mUfXK8jJ5uNM0gsyVaLTVYI0HSa5ERwLs9GJZA7lhzIRPOLFKcMxg4JZAvyiGu2HlrhVqzGe0VqFGtNrrkUps64JZBZCR1V5VuD8NJKCDixJZBMftZBEQI7YkcfTxp7Ls0YdxAZDZD",
+    "validationToken": "dont_panic",
+    "serverURL": "https://marvin.dasnebula.com"
 }
